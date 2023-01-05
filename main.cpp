@@ -11,6 +11,10 @@ void quicksort(){
 void mergersort(){
     
 }
+
+void insertionsort(){
+    //
+}
 int main(){
 cout<<"Hello World"<<endl;
 cout<<"Hello Aayush"<<endl;
